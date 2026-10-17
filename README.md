@@ -19,7 +19,7 @@ Then connect your accounts and apps at [carlyassistant.com/integrations](https:/
   "mcpServers": {
     "carly": {
       "type": "http",
-      "url": "https://carlyassistant.com/mcp/"
+      "url": "https://carlyassistant.com/mcp"
     }
   }
 }

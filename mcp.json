@@ -2,7 +2,7 @@
   "mcpServers": {
     "carly": {
       "type": "http",
-      "url": "https://carlyassistant.com/mcp/"
+      "url": "https://carlyassistant.com/mcp"
     }
   }
 }
