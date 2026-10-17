@@ -1,0 +1,34 @@
+{
+  "name": "carly",
+  "displayName": "Carly",
+  "version": "1.0.0",
+  "description": "Email, calendar, CRM, and workflows across all your Gmail and Outlook accounts.",
+  "author": {
+    "name": "Carly",
+    "email": "support@calbotservice.com"
+  },
+  "homepage": "https://www.usecarly.com/mcp/",
+  "repository": "https://github.com/UseCarly/carly-cursor-plugin",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "carly",
+    "email",
+    "calendar",
+    "gmail",
+    "outlook",
+    "crm",
+    "workflows",
+    "scheduling",
+    "assistant",
+    "mcp"
+  ],
+  "category": "productivity",
+  "tags": [
+    "carly",
+    "email",
+    "calendar",
+    "workflows",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json"
+}
