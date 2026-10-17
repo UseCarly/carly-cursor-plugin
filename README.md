@@ -47,4 +47,4 @@ Free Zapier-style workflows; AI agents from $35/month.
 
 ## Support
 
-[usecarly.com/mcp](https://www.usecarly.com/mcp/) lists every tool. Questions: support@calbotservice.com
+[usecarly.com/mcp](https://www.usecarly.com/mcp/) lists every tool. Questions: support@usecarly.com
